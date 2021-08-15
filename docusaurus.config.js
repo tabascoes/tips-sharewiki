@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'ShareWiki',
-  tagline: "Let's share you knowledge!",
-  url: 'https://sharewiki.vercel.app',
+  title: 'Tips - ShareWiki',
+  tagline: "Let's share you tips!",
+  url: 'https://tips-sharewiki.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'sharewiki', // Usually your GitHub org/user name.
